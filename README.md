@@ -10,9 +10,10 @@ List of Startup Ideas which anyone can Hack &amp; Improve!
 ## Ideas List:
 
 + [Idea - Solve Personal Analytics] (http://blog.kirigin.com/personal-analytics)
-     - [HN Comments] (https://news.ycombinator.com/item?id=6641431)
+     - [HN Feedback/Comments for the Idea] (https://news.ycombinator.com/item?id=6641431)
 
 + [Idea - An Open Source Government System] (https://github.com/ninjaas/changeMyGovernment/blob/master/README.md)
+
 + Idea - Open source Project for complete Water management system.
      - Identify water consumption, daily wastage & billing.
      - Sensor based water management & monitoring.
@@ -22,12 +23,18 @@ List of Startup Ideas which anyone can Hack &amp; Improve!
          - Safe for drinking or not.
          - Safe for cooking or Cleaning.
      - Alert system app for Water shortage.
-+ Idea - Open source Project for Wastage monitoring, Recycling and Quality check: Identify & manage City wastage.
++ Idea - Open source Project for Wastage monitoring.
+     - Manage and Handle Waste Recycling
+     - Waste Quality check with Carbon contents.
+     - Identify & manage City wastage.
+     - Identify waste sources & their Carbon Footprints.
+     
 + Project Idea: My City Clean
      - An app to gather City people online 
      - Tools to manage the city.
      - Idenity & fine for those who dirt-split-spoil.
-     - Take photos, showcase and publish in Site? :D
+     - Take photos, showcase mistakers and publish in Frontpage of webSite? :D
+     
 + Open Furnitures
      - Should be very affordable material.
      - Should Influence Space Saving concepts.
