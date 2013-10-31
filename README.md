@@ -2,11 +2,9 @@ Startup-Ideas
 =============
 
 List of Startup Ideas which anyone can Hack &amp; Improve! 
-- Pull Requests are welcome.
-
-- These are your Ideas which you want to Give away for others to hack.
-
-- Why? because you badly need it! And/or you don't have time.
+- Pull Requests are welcome!
+- These are your own Ideas & you like to Give-it-away for others to hack/Improve.
+- Why? Because you badly need it for yourself! And you don't find time to do it yourself.
 
 
 ## Ideas List:
