@@ -41,3 +41,9 @@ List of Startup Ideas which anyone can Hack &amp; Improve!
      - Should Influence Space Saving concepts.
      - Hackable furnitures.
      - Self-DIY type.
+     
+ 
+## Validating an Idea
+- [Research on Google Trends](https://trends.google.com/trends/)
+- [Target Specific Reddit Groups, ask their opinion](https://www.indiehackers.com/post/my-team-validates-startup-ideas-using-reddit-that-has-1-5b-visits-a-month-its-accurate-and-fast-here-is-how-to-get-started-26cc717989)
+- Maybe use this [SurveyWave](http://surveywave.xyz/), [AreYouInterested](https://areyouinterested.co/) tools
